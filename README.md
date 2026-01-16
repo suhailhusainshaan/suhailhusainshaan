@@ -49,10 +49,9 @@ I specialize in building robust, scalable, and efficient web applications. Here'
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/suhailhusainshaan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhailhusainshaan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailhusainshaan&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
-  </a>
+  ![GitHub followers](https://img.shields.io/github/followers/suhailhusainshaan?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/suhailhusainshaan?style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/suhailhusainshaan?affiliations=OWNER&style=social)
 </p>
 
 ---
