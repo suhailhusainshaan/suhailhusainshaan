@@ -48,10 +48,13 @@ I specialize in building robust, scalable, and efficient web applications. Here'
 
 ### 📈 GitHub Stats
 
+
 <p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/suhailhusainshaan?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/suhailhusainshaan?style=social)
-  ![GitHub User's stars](https://img.shields.io/github/stars/suhailhusainshaan?affiliations=OWNER&style=social)
+  <img  height="180em" src="https://streak-stats.demolab.com/?user=suhailhusainshaan&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhailhusainshaan&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
 </p>
 
 ---
