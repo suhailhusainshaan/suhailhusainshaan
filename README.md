@@ -50,9 +50,8 @@ I specialize in building robust, scalable, and efficient web applications. Here'
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhailhusainshaan&theme=merko&exclude_days=Sun%2CSat&background=000000C7" />
+  <img src="https://streak-stats.demolab.com?user=suhailhusainshaan" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhailhusainshaan&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
 </p>
