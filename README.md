@@ -50,7 +50,7 @@ I specialize in building robust, scalable, and efficient web applications. Here'
 
 
 <p align="center">
-  <img  height="180em" src="https://streak-stats.demolab.com/?user=suhailhusainshaan&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=suhailhusainshaan&theme=merko&exclude_days=Sun%2CSat&background=000000C7" />
 </p>
 
 <p align="center">
