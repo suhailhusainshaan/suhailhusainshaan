@@ -8,6 +8,7 @@
 
 ---
 
+
 ### 🛠️ Technologies & Skills
 
 I specialize in building robust, scalable, and efficient web applications. Here's a glimpse of the technologies I work with:
