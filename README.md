@@ -38,7 +38,7 @@ I specialize in building robust, scalable, and efficient web applications. Here'
 
 ### 💼 What I Bring to the Table
 
-- **Backend Mastery:** 6+ years of deep experience in **PHP** and the **Laravel** ecosystem, including building complex APIs, backend services, and admin panels with **Filament**.
+- **Backend Mastery:** 7+ years of deep experience in **PHP** and the **Laravel** ecosystem, including building complex APIs, backend services, and admin panels with **Filament**.
 - **Full-Stack Capability:** Comfortable working on the frontend with **React.js** to deliver complete, end-to-end solutions.
 - **Database Design & Optimization:** Strong skills in **MySQL** schema design, query optimization, and performance tuning.
 - **Scalable Infrastructure:** Hands-on experience deploying, managing, and scaling applications on **AWS** and **Ubuntu** servers.
